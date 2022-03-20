@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digigrade.Otto.Comms", "Digigrade.Otto.Comms\Digigrade.Otto.Comms.csproj", "{65B653EC-BC90-4C3C-BD13-15AC9626E2EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digigrade.Otto.Programmer", "Digigrade.Otto.Programmer\Digigrade.Otto.Programmer.csproj", "{ECB92C2A-175C-4505-9155-1A4B4850CC7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digigrade.Otto.Programmer", "Digigrade.Otto.Programmer\Digigrade.Otto.Programmer.csproj", "{ECB92C2A-175C-4505-9155-1A4B4850CC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digigrade.Otto.Scripts", "Digigrade.Otto.Scripts\Digigrade.Otto.Scripts.csproj", "{3D61AE1A-D3A7-42A6-85FC-3C5667F7B480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ECB92C2A-175C-4505-9155-1A4B4850CC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECB92C2A-175C-4505-9155-1A4B4850CC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECB92C2A-175C-4505-9155-1A4B4850CC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D61AE1A-D3A7-42A6-85FC-3C5667F7B480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D61AE1A-D3A7-42A6-85FC-3C5667F7B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D61AE1A-D3A7-42A6-85FC-3C5667F7B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D61AE1A-D3A7-42A6-85FC-3C5667F7B480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

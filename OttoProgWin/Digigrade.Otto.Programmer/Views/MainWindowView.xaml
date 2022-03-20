@@ -6,6 +6,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid Width="500" Height="400">
-        <Button Content="Open Some Sub Window" Command="{Binding OpenSomeSubWindowCommand}"   VerticalAlignment="Bottom"/>
+        <Button Content="Build" Command="{Binding BuildCommand}"   VerticalAlignment="Bottom"/>
     </Grid>
 </UserControl>
